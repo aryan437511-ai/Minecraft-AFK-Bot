@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "stealandrun.enderman.cloud",
+  "serverPort": 35373,
   "botUsername": "MyBot",
   "botChunk": 1
 }
